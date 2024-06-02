@@ -1,0 +1,4 @@
+- Button: https://docs.arduino.cc/built-in-examples/digital/Button/
+- Photoresistor: https://projecthub.arduino.cc/tropicalbean/how-to-use-a-photoresistor-1143fd
+- Buzzer: https://www.maffucci.it/2021/01/05/arduino-utilizzo-di-buzzer-attivi-e-passivi-lezione-1/
+- IR Remote: https://roboticsbackend.com/arduino-ir-remote-controller-tutorial-setup-and-map-buttons/
